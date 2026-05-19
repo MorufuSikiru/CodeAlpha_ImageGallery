@@ -4,7 +4,7 @@ A responsive image gallery built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-[View Live](https://morufusikiru.github.io/)
+[View Live](https://morufusikiru.github.io/CodeAlpha_ImageGallery/)
 
 ## ✨ Features
 
